@@ -1,6 +1,6 @@
 #74HC165 8Bit Paralel In/Serial Out Shift Register
 
-![image](https://github.com/HERMANTONI/Arduino-Tutorial/assets/82546034/a3449bd9-b654-42de-9880-a5cca75483e1)
+![image](https://github.com/HERMANTONI/Arduino-Tutorial/assets/82546034/29870de3-d2c1-407a-b18b-e91d940e8665)
 
 ![image](https://github.com/HERMANTONI/Arduino-Tutorial/assets/82546034/6e1932ba-fa4d-421c-a18b-0515ad5780fd)
 
